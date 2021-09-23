@@ -1,44 +1,43 @@
 
-# Sergey Dmitriev
+# Studying at FRONTEND - DEVELOPER
 
-*Родился 18.05.1988 (33 года) в г. Ленинград, Гражданство: РФ*
+**Sergey Dmitriev**
 
-*Контакты для связи 8-925-853-20-54 skynet-xaoc@mail.ru*
+*Born on 05/18/1988 (33 years old) in Leningrad, Citizenship: RF*
 
-*Адрес проживания: г. Одинцово*
+*Contacts for communication skynet-xaoc@mail.ru*
 
-## Резюме ##
+* Residence address: Odintsovo
 
-**Учусь на FRONTEND - разрабочтика**
+## Summary ##
 
-#### О себе ####
+#### About myself ####
 
-*Меня отличают творческий подход делу, исполнительность и стрессоустойчивость. С интересом берусь за новые проекты, стараюсь доводить дело до конца. Хорошо работаю в команде, умею решать конфликты и идти на компромисс. В школе занимался программированием на QBasic, тема программирования интересна для меня с самого детства. На данный момент учусь на FRONTEND - разрабочтика в RS - School.*
-
-***
-#### Навыки ####
-
-// (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)//
+* I am distinguished by a creative approach to work, diligence and stress resistance. I take on new projects with interest, I try to bring the matter to the end. I work well in a team, I can resolve conflicts and compromise. At school I was engaged in programming in QBasic, the topic of programming has been interesting to me since childhood. At the moment I am studying at FRONTEND - a developer at RS - School.
 
 ***
-#### Примеры кода ####
+#### Skills ####
+
+// (programming languages, frameworks, methodologies, version control systems and development tools that you own) //
+
+***
+#### Code Examples ####
 
 //
 
 ***
-#### Опыт работы ####
+#### Work experience ####
 
-// пройденные курсы и тренинги, перечислить учебные проекты, или проекты, выполненные на фрилансе с указанием использованных навыков и ссылками на исходный код. //
+* I'm undergoing training at code-basics.com*
 
 ***
-#### Образование ####
+#### Education ####
 
-// (включая курсы, семинары, лекции, онлайн-обучение)//
+**Institute MGUPI**
 
-#### Английский язык ####
+* Faculty of Automotive Engineering and On-Board Computers (2005-2010)
 
-*Знание языков: Английский A2/B1
-Русский — родной*
+#### English ####
 
-// (уровень английского языка, если была языковая практика, расскажите о ней)//
-* Предыдущие места работы:
+* Knowledge of languages: English A2 / B1
+Russian - native
