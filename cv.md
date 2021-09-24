@@ -17,7 +17,7 @@
 
 ## Briefly About Myself:
 
-I am creative in my work, fully involed in process, responsible and stress - resistant. I take on new projects with interest, I try to bring the matter to the end. I am effective to do work by my own but also feel comfontable working in team, I easily solve comflicts but prefer to avoid and compromise. At school I was engaged in programming in QBasic, the topic of programming has been interesting to me since childhood. At the moment I am studying at Frontend developer at RSSchool.
+I am creative in my work, fully involved in process, responsible and stress - resistant. I take on new projects with interest, I try to bring the matter to the end. I am effective to do work by my own but also feel comfortable working in team, I easily solve conflicts but prefer to avoid and compromise. At school I was engaged in programming in QBasic, the topic of programming has been interesting to me since childhood. At the moment I am studying at Frontend developer at RSSchool.
 
 ***
 ## Skills
