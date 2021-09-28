@@ -1,0 +1,124 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    background-color: silver;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+main {
+    display: flex;
+    margin-top: 50px;
+    font-family: 'Roboto', sans-serif;
+    max-width: 1000px;
+}
+
+.left_column {
+    display: flex;
+    flex-direction: column;
+    flex: 0 0 30%;
+    background: rgb(167, 167, 167);
+}
+
+.name {
+    padding: 24px 24px 0 48px;
+}
+
+.profession {
+    font-size: 1.6em;
+}
+
+.first_name {
+    font-size: 3em;
+    font-weight: 1000;
+}
+
+.surname {
+    margin-top: -15px;
+    font-size: 3em;
+    font-weight: 1000;
+    text-align: end;
+    color: rgb(240, 140, 0);
+}
+
+.photo__wrapper img {
+    width: 100%;
+}
+
+.skills,
+.contacts,
+.knowledge {
+    padding: 0 24px 0 48px;
+}
+
+.knowledge {
+    padding-bottom: 64px;
+}
+
+.right_column {
+    background: #fff;
+    padding: 24px 48px 16px 24px;
+}
+
+p {
+    font-size: 18px;
+}
+
+ul {
+    padding: 0;
+}
+
+.left_column hr {
+    border-bottom: 1px solid #000;
+}
+
+.contacts ul {
+    list-style-type: none;
+}
+
+pre {
+    background: #f4f4f4;
+    border: 1px solid #ddd;
+    border-left: 3px solid rgb(240, 140, 0);
+    color: #666;
+    page-break-inside: avoid;
+    font-family: monospace;
+    font-size: 15px;
+    line-height: 1.6;
+    margin-bottom: 1.6em;
+    max-width: 100%;
+    overflow: auto;
+    padding: 1em 1.5em;
+    display: block;
+    word-wrap: break-word;
+}
+
+footer {
+    width: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #000;
+}
+
+footer h3 {
+    color: #fff;
+}
+
+.github-icon {
+    width: 42px;
+    height: 42px;
+    margin-right: 40px;
+    border-radius: 50%;
+}
+
+.rs-school-icon {
+    width: 80px;
+    height: 80px;
+    margin-left: 40px;
+}
